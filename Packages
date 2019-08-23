@@ -33,8 +33,8 @@ Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.spotify.client_8.4.3.deb
-Size: 64753612 bytes
-MD5sum: 84F468907339616CDA93918D64C55E8A
+Size: 64753612
+MD5sum: 84f468907339616cda93918d64c55e8a
 Description: This is a sample old package. Firmware should be up than 7.0
 Name: Spotify++
 Author: Reposi3 <reposithree@gmail.com>
