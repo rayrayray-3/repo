@@ -26,7 +26,7 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://rayrayray-3.github.io/repo/depictions/?p=com.supermamon.oldpackage
 
-Package: com.spotify.newpackage
+Package: com.spotify++.newpackage
 Version: 8.4.3
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
@@ -38,7 +38,7 @@ MD5sum:
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Spotify++
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://rayrayray-3.github.io/repo/depictions/?p=com.supermamon.oldpackage
+Depiction: https://rayrayray-3.github.io/repo/depictions/?p=com.spotify++.newpackage
 
 
 
