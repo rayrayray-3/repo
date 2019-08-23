@@ -30,12 +30,12 @@ Package: com.spotify++.newpackage
 Version: 8.4.3
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.spotify.client_8.4.3.deb
 Size: 61.8MB
 MD5sum: 
-Description: This is a sample old package. Firmware should be lower than 7.0
+Description: This is a sample old package. Firmware should be up than 7.0
 Name: Spotify++
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://rayrayray-3.github.io/repo/depictions/?p=com.spotify++.newpackage
